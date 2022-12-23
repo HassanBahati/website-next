@@ -76,7 +76,7 @@ export default function Home(): JSX.Element {
               <h1 className="title">
                 <img
                   className="logo"
-                  src="/website-next/img/fastify-logo-white.png"
+                  src="/img/fastify-logo-white.png"
                   alt="Fastify"
                 />
               </h1>
