@@ -728,6 +728,11 @@
       "description": "FastifyInfluxDB plugin connecting to an InfluxDB instance via the Influx defaultpackage."
     },
     {
+      "name": "fastify-ip",
+      "url": "https://github.com/metcoder95/fastify-ip",
+      "description": "A pluginfor Fastify that allows you to infer a request ID by agiven set of custom Request headers."
+    },
+    {
       "name": "fastify-jwt-authz",
       "url": "https://github.com/Ethan-Arrowood/fastify-jwt-authz",
       "description": "JWTuser scope verifier."
@@ -956,6 +961,11 @@
       "name": "fastify-postgraphile",
       "url": "https://github.com/alemagio/fastify-postgraphile",
       "description": "Plugin to integrate [PostGraphile](https://www.graphile.org/postgraphile/) ina Fastify project."
+    },
+    {
+      "name": "fastify-postgres-dot-js",
+      "url": "https://github.com/kylerush/fastify-postgresjs",
+      "description": "FastifyPostgreSQL connection plugin that uses [Postgres.js](https://github.com/porsager/postgres)."
     },
     {
       "name": "fastify-prettier",
